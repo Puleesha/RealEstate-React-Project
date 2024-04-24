@@ -12,16 +12,16 @@ const Hero = () => {
                         <div className="orange-circle"/>
                         <h1>
                             Discover <br/>
-                            Most Suitable <br/>Property
+                            Your Most Suitable <br/>Property
                         </h1>
                     </div>
 
                     <div className="flexColStart hero-des">
                         <span>
-                            Find a variety of properties that suit your preferences
+                            Find a wide variety of properties that suit your personal preferences
                         </span>
                         <span>
-                            Overcome all difficulties in finding your dream residency
+                            Simplify the process of discovering your dream residency
                         </span>
                     </div>
 
